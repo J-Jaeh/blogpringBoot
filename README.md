@@ -35,7 +35,7 @@
 
 
 
-![명세서](https://user-images.githubusercontent.com/117059721/206149657-8b7f53f4-5481-4ed2-a632-412e38829a6e.png)
+![명세서](https://user-images.githubusercontent.com/117059721/206178288-2c182217-0647-45c5-963e-836dafcee60b.png)
 
 	
 		
