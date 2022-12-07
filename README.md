@@ -32,6 +32,10 @@
 		
 [API 명세서]
 
-		
+
+
+![명세서](https://user-images.githubusercontent.com/117059721/206141827-93a50ef9-6d3d-4fd5-b4c9-ee5af98be94a.png)
+
+	
 		
 		
