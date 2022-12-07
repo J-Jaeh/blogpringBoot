@@ -1,6 +1,6 @@
 # 스프링 입문 개인과제 연습
 
-Use Case
+[Use Case]
 
 ![유스케이스스](https://user-images.githubusercontent.com/117059721/206121853-c76466a3-d796-436b-bd40-b158f100a4ec.PNG)
 
@@ -8,7 +8,7 @@ Use Case
 
 
 
-서비스 완성 요구사항
+[서비스 완성 요구사항]
 
 
 1. 전체 게시글 목록 조회 API
@@ -30,7 +30,7 @@ Use Case
 		
 		
 		
-API
+[API 명세서]
 
 		
 		
